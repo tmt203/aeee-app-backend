@@ -1,0 +1,1157 @@
+[{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c720"
+  },
+  "foreword": "Foreword from Kou Yamada, Professor of Gunma University, Japan.",
+  "avatar_url": "/uploads/managers/images/kou_yamada.png",
+  "info_file_url": "/uploads/managers/files/VOL23_NO3.pdf",
+  "volume": 23,
+  "issue": 3,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.192Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T12:42:36.581Z"
+  },
+  "foreword_content": "Dear readers,\nI would like to recommend The Advances in Electronic and Electric Engineering (AEEE) Journal to you for sharing your academic research outcomes. AEEE is a prestigious journal that publishes high quality papers in the fields of electrical and electronic engineering. AEEE is indexed included in WoS, SCOPUS, SJR, and others. Since AEEE is an Open Access journal, all papers are freely accessible via online. Therefore, researchers and stakeholders will invite to submit their research papers for publication in the AEEE Journal and refer papers in the AEEE journal."
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c721"
+  },
+  "foreword": "Foreword from Axel Sikora, Professor of Offenburg University, Germany and Deputy Member of the Board at Hahn-Schickard, Villingen-Schwenningen, Germany.",
+  "avatar_url": "/uploads/managers/images/axel_sikora.jpg",
+  "info_file_url": "/uploads/managers/files/VOL23_NO2.pdf",
+  "volume": 23,
+  "issue": 2,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.193Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.542Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c722"
+  },
+  "foreword": "Foreword about Byung-Seo Kim, Professor of Hongik University-Sejong campus, Republic of Korea.",
+  "avatar_url": "/uploads/managers/images/ByungSeoKim.jpg",
+  "info_file_url": "/uploads/managers/files/VOL23_NO1.pdf",
+  "volume": 23,
+  "issue": 1,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.193Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.544Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c723"
+  },
+  "foreword": "Foreword about Sung Won Kim, Professor of the School of Computer Science and Engineering, Yeungnam University, Republic of Korea.",
+  "avatar_url": "/uploads/managers/images/SungWonKim.jpg",
+  "info_file_url": "/uploads/managers/files/VOL22_NO4.pdf",
+  "volume": 22,
+  "issue": 4,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.193Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.546Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c724"
+  },
+  "foreword": "Foreword about Rupak Kharel, University of Huddersfield, Huddersfield, UK.",
+  "avatar_url": "/uploads/managers/images/rupak_kharel.jpg",
+  "info_file_url": "/uploads/managers/files/VOL22_NO3.pdf",
+  "volume": 22,
+  "issue": 3,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.193Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.548Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c725"
+  },
+  "foreword": "Foreword about Peppino Fazio, Associate Professor of the Department of Molecular Sciences and Nanosystems, Ca’ Foscari University of Venice, Italy.",
+  "avatar_url": "/uploads/managers/images/Fazio.jpg",
+  "info_file_url": "/uploads/managers/files/VOL22_NO2.pdf",
+  "volume": 22,
+  "issue": 2,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.193Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.549Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c726"
+  },
+  "foreword": "Foreword about Tran Trung Duy, Associate Professor of the Posts and Telecommunications Institute of Technology, Ho Chi Minh City campus (PTIT-HCM), Vietnam.",
+  "avatar_url": "/uploads/managers/images/Duy.jpg",
+  "info_file_url": "/uploads/managers/files/VOL22_NO1.pdf",
+  "volume": 22,
+  "issue": 1,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.193Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.550Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c727"
+  },
+  "foreword": "Foreword about Winai Jaikla, Associate Professor of the Department of Engineering Education, School of Industrial Education and Technology, King Mongkut’s Institute of Technology Ladkrabang, Thailand.",
+  "avatar_url": "/uploads/managers/images/winai.jpg",
+  "info_file_url": "/uploads/managers/files/VOL21_NO4.pdf",
+  "volume": 21,
+  "issue": 4,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.193Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.551Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c728"
+  },
+  "foreword": "Foreword about Thang Trung Nguyen, Ph.D of the Department of Electrical Engineering, Faculty of Electrical and Electronics Engineering, Ton Duc Thang University, Vietnam:",
+  "avatar_url": "/uploads/managers/images/Thang.jpg",
+  "info_file_url": "/uploads/managers/files/VOL21_NO3.pdf",
+  "volume": 21,
+  "issue": 3,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.193Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.553Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c729"
+  },
+  "foreword": "Foreword about Jan Latal, Lecturer and Professor’s assistant at the Department of Telecommunications, Faculty of Electrical Engineering and Computer Science, VSB–Technical University of Ostrava, Czech Republic and former Editor-in-Chief of Advances in Electrical and Electronic Engineering journal:",
+  "avatar_url": "/uploads/managers/images/Latal.jpg",
+  "info_file_url": "/uploads/managers/files/VOL21_NO2.pdf",
+  "volume": 21,
+  "issue": 2,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.193Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.554Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c72a"
+  },
+  "foreword": "Foreword about Martin Kyselak, Associate Professor of the Department of Electrical Engineering, Faculty of Military Technology, University of Defence in Brno, Czech Republic:",
+  "avatar_url": "/uploads/managers/images/Kyselak.png",
+  "info_file_url": "/uploads/managers/files/VOL21_NO1.pdf",
+  "volume": 21,
+  "issue": 1,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.193Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.555Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c72b"
+  },
+  "foreword": "Foreword about Associate Professor Surender Reddy Salkuti from the Department of Railroad and Electrical Engineering, Woosong University, Daejeon, Republic of Korea and Professor Cheng Li from the Department of Vehicle Engineering, Soochow University, Suzhou, China:",
+  "avatar_url": "/uploads/managers/images/vol20no4.jpg",
+  "info_file_url": "/uploads/managers/files/VOL20_NO4.pdf",
+  "volume": 20,
+  "issue": 4,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.193Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.555Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c72c"
+  },
+  "foreword": "Foreword about Farag Kamel Abo-Elyousr Mostafa, Associate Professor at the Electrical Engineering Department, Faculty of Engineering, Assiut University, Egypt",
+  "avatar_url": "/uploads/managers/images/Farag.jpg",
+  "info_file_url": "/uploads/managers/files/VOL20_NO3.pdf",
+  "volume": 20,
+  "issue": 3,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.193Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.556Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c72d"
+  },
+  "foreword": "Foreword about Amin Behzadmehr, Full Professor and director of Nanotechnology research center at the University of Sistan and Baluchestan, I.R.Iran",
+  "avatar_url": "/uploads/managers/images/Behzadmehr.jpg",
+  "info_file_url": "/uploads/managers/files/VOL20_NO2.pdf",
+  "volume": 20,
+  "issue": 2,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.193Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.557Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c72e"
+  },
+  "foreword": "Foreword about Kampol Woradit, Assistant Professor of the Department of Computer Engineering, Faculty of Engineering, Chiang Mai University:",
+  "avatar_url": "/uploads/managers/images/Kampol_Woradit.jpg",
+  "info_file_url": "/uploads/managers/files/VOL20_NO1.pdf",
+  "volume": 20,
+  "issue": 1,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.193Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.558Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c72f"
+  },
+  "foreword": "Foreword about Professor Peter Pocta, the Professor at Department of Multimedia and Information, part Communication Technology, Faculty of Electrical Engineering and Information Technology, University of Zilina, Slovakia:",
+  "avatar_url": "/uploads/managers/images/Peter_Pocta.jpg ",
+  "info_file_url": "/uploads/managers/files/VOL19_NO4.pdf",
+  "volume": 19,
+  "issue": 4,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.193Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.559Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c730"
+  },
+  "foreword": "Foreword about Assistant Professor Dinh-Thuan Do, Assistant Professor, Department of Computer Science and Information Engineering, College of Information and Electrical Engineering, Asia University, Taichung city, Taiwan:",
+  "avatar_url": "/uploads/managers/images/Thuan_Do.jpg",
+  "info_file_url": "/uploads/managers/files/VOL19_NO3.pdf",
+  "volume": 19,
+  "issue": 3,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.193Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.560Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c731"
+  },
+  "foreword": "Foreword about Professor Neeta Pandey as a member of Editorial Board of \"Advances in Electrical and Electronic Engineering\" journal and the Professor at the Department of Electronics and Communication Engineering, Delhi Technological University, India:",
+  "avatar_url": "/uploads/managers/images/pandey.jpg",
+  "info_file_url": "/uploads/managers/files/VOL19_NO2.pdf",
+  "volume": 19,
+  "issue": 2,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.193Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.561Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c732"
+  },
+  "foreword": "Foreword about Associate Professor Luciano Belandria, Associate Professor at the Department of Electronic Engineering, National Experimental University of Tachira (UNET), Venezuela:",
+  "avatar_url": "/uploads/managers/images/Belandria.jpeg",
+  "info_file_url": "/uploads/managers/files/VOL19_NO1.pdf",
+  "volume": 19,
+  "issue": 1,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.193Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.562Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c733"
+  },
+  "foreword": "Foreword about associate professor Winai Jaikla, associate professor at Department of Engineering Education, Faculty of Industrial Education and Technology, King Mongkut’s Institute of Technology Ladkrabang, Thailand:",
+  "avatar_url": "/uploads/managers/images/Jaikla.png ",
+  "info_file_url": "/uploads/managers/files/VOL18_NO4.pdf",
+  "volume": 18,
+  "issue": 4,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.193Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.563Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c734"
+  },
+  "foreword": "Foreword about associate professor Zouhair Al-qudah, associate professor at Communication Engineeing Department, Al-Hussein Bin Talal University, Ma’an, Jordan:",
+  "avatar_url": "/uploads/managers/images/Al-qudah.jpg",
+  "info_file_url": "/uploads/managers/files/VOL18_NO3.pdf",
+  "volume": 18,
+  "issue": 3,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.193Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.564Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c735"
+  },
+  "foreword": "Foreword about associate professor Mohammed Redha Qader, Dean of Scientific Research at the University of Bahrain and associate professor of Electrical Engineering at the University of Bahrain:",
+  "avatar_url": "/uploads/managers/images/Qader.JPG",
+  "info_file_url": "/uploads/managers/files/VOL18_NO2.pdf",
+  "volume": 18,
+  "issue": 2,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.193Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.566Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c736"
+  },
+  "foreword": "Foreword about associate professor Arturs Aboltins, IEEE Fellow and associate professor at Institute of Radioelectronics, Faculty of Electronics and Telecommunications (FET), Riga Technical University (RTU):",
+  "avatar_url": "/uploads/managers/images/Aboltins.jpg  ",
+  "info_file_url": "/uploads/managers/files/VOL18_NO1.pdf",
+  "volume": 18,
+  "issue": 1,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.193Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.567Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c737"
+  },
+  "foreword": "Foreword about Professor Mohamed Benbouzid, IEEE Fellow, IET Fellow, and Professor at Department of Electrical Engineering of the University Institute of Technology, University of Brest:",
+  "avatar_url": "/uploads/managers/images/Benbouzid.png ",
+  "info_file_url": "/uploads/managers/files/VOL17_NO4.pdf",
+  "volume": 17,
+  "issue": 4,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.193Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.568Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c738"
+  },
+  "foreword": "Foreword about Professor Radu Arsinte as a member of Editorial Board of \"Advances in Electrical and Electronic Engineering\" journal and the Professor at the Communications Department, Technical University of Cluj-Napoca:",
+  "avatar_url": "/uploads/managers/images/Arsinte.jpg",
+  "info_file_url": "/uploads/managers/files/VOL17_NO3.pdf",
+  "volume": 17,
+  "issue": 3,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.193Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.569Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c739"
+  },
+  "foreword": "Foreword about Professor Karol Rastocny as a member of Editorial Board of \"Advances in Electrical and Electronic Engineering\" journal and the Professor at the Department of Control and Information Systems, Faculty of Electrical Engineering and Information Technology, University of Zilina:",
+  "avatar_url": "/uploads/managers/images/Rastocny_Foto.JPG",
+  "info_file_url": "/uploads/managers/files/VOL17_NO2.pdf",
+  "volume": 17,
+  "issue": 2,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.193Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.570Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c73a"
+  },
+  "foreword": "Foreword about Philippe Fournier-Viger, Professor of Computer Science, School of Humanities and Social Sciences, Harbin Institute of Technology (Shenzhen), University Town of Shenzhen, Shenzhen:",
+  "avatar_url": "/uploads/managers/images/Viger.jpg",
+  "info_file_url": "/uploads/managers/files/VOL17_NO1.pdf",
+  "volume": 17,
+  "issue": 1,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.193Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.570Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c73b"
+  },
+  "foreword": "Foreword about professor Marek Penhaker as a member of Editorial Board of \"Advances in Electrical and Electronic Engineering\" journal and the head of Biomedical Engineering group at VSB–Technical University of Ostrava at Department of Cybernetics and Biomedical Engineering:",
+  "avatar_url": "/uploads/managers/images/Penhaker.jpg",
+  "info_file_url": "/uploads/managers/files/VOL16_NO4.pdf",
+  "volume": 16,
+  "issue": 4,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.193Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.571Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c73c"
+  },
+  "foreword": "Foreword about Professor Branislav Dobrucky senior member of the IEEE Industrial Electronics Society and the Professor at the Department of Mechatronics and Electronics, Faculty of Electrical Engineering and Information Technology, University of Zilina:",
+  "avatar_url": "/uploads/managers/images/dobrucky.jpg",
+  "info_file_url": "/uploads/managers/files/VOL16_NO3.pdf",
+  "volume": 16,
+  "issue": 3,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.193Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.572Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c73d"
+  },
+  "foreword": "Foreword about Professor Miloslav Ohlidal member of the International Scientific Editorial Board of \"Advances in Electrical and Electronic Engineering\" journal and the Professor at Department of Optics and Precise Mechanics, Institute of Physical Engineering, Faculty of Mechanical Engineering, Brno University of Technology:",
+  "avatar_url": "/uploads/managers/images/Ohlidal.jpg",
+  "info_file_url": "/uploads/managers/files/VOL16_NO2.pdf",
+  "volume": 16,
+  "issue": 2,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.193Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.572Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c73e"
+  },
+  "foreword": "Foreword about Professor Pavol Spanik chairman of the International Scientific Editorial Board of \"Advances in Electrical and Electronic Engineering\" journal and the Dean Faculty of the Electrical Engineering, University of Zilina and the Professor at Department of Power Electrical Systems, Faculty of Electrical Engineering, University of Zilina:",
+  "avatar_url": "/uploads/managers/images/Spanik.jpg",
+  "info_file_url": "/uploads/managers/files/VOL16_NO1.pdf",
+  "volume": 16,
+  "issue": 1,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.193Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.573Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c73f"
+  },
+  "foreword": "Foreword about Professor Raj Senani from the Division of Electronics and Communication Engineering, Netaji Subhas Institute of Technology, Dwarka, New Delhi, Dalibor Biolek a member of the International Scientific Editorial Board of \"Advances in Electrical and Electronic Engineering\" journal and the Professor at University of Defence and Brno University of Technology, and Professor Data Ram Bhaskar from the Department of Electronics & Communication Engineering at Delhi Technological University, India:",
+  "avatar_url": "/uploads/managers/images/Senani_Biolek_Bhaskar.png",
+  "info_file_url": "/uploads/managers/files/VOL15_NO5.pdf",
+  "volume": 15,
+  "issue": 5,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.193Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.574Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c740"
+  },
+  "foreword": "Foreword about Mauro Tropea, Research Fellow, DIMES Department of University of Calabria, Italy:",
+  "avatar_url": "/uploads/managers/images/tropea.jpg",
+  "info_file_url": "/uploads/managers/files/VOL15_NO4.pdf",
+  "volume": 15,
+  "issue": 4,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.193Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.575Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c741"
+  },
+  "foreword": "Foreword about Professor Homer Nazeran, a Senior Member of the IEEE and a faculty with the Department of Electrical and Computer Engineering at the University of Texas at El Paso, and Associate Professor Radek Martinek, the Editor-in-Chief of the “Advances in Electrical and Electronic Engineering” Journal, and a faculty of the Department of Cybernetics and Biomedical Engineering, Faculty of Electrical Engineering and Computer Science, VSB-Technical University of Ostrava:",
+  "avatar_url": "/uploads/managers/images/nazeran_martinek.jpg",
+  "info_file_url": "/uploads/managers/files/VOL15_NO3.pdf",
+  "volume": 15,
+  "issue": 3,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.193Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.576Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c742"
+  },
+  "foreword": "Foreword about Zdenek Dostal, Professor at VSB–Technical University of Ostrava, Faculty of Electrical Engineering and Computer Science, Department of Applied Mathematics:",
+  "avatar_url": "/uploads/managers/images/dostal1.jpg",
+  "info_file_url": "/uploads/managers/files/VOL15_NO2.pdf",
+  "volume": 15,
+  "issue": 2,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.193Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.577Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c743"
+  },
+  "foreword": "Foreword about Professor Maria Franekova, a member of the International Scientific Editorial Board of \"Advances in Electrical and Electronic Engineering\" journal and the Professor at University of Zilina, Faculty of Electrical Engineering, Department of Control and Information Systems:",
+  "avatar_url": "/uploads/managers/images/franekova.jpg",
+  "info_file_url": "/uploads/managers/files/VOL15_NO1.pdf",
+  "volume": 15,
+  "issue": 1,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.194Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.578Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c744"
+  },
+  "foreword": "Foreword about Sasa Mrdovic, Associate Professor, Computer Science Department, Faculty of Electrical Engineering, University of Sarajevo:",
+  "avatar_url": "/uploads/managers/images/foto.png",
+  "info_file_url": "/uploads/managers/files/VOL14_NO5.pdf",
+  "volume": 14,
+  "issue": 5,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.194Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.579Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c745"
+  },
+  "foreword": "Foreword about Stefan Rass, Associate Professor, System Security Group, Institute of Applied Informatics, Alpen-Adria Universitat Klagenfurt, Austria:",
+  "avatar_url": "/uploads/managers/images/Rass.jpg",
+  "info_file_url": "/uploads/managers/files/VOL14_NO4.pdf",
+  "volume": 14,
+  "issue": 4,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.194Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.580Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c746"
+  },
+  "foreword": "Foreword about Professor Vladimir Schejbal, a member of the International Scientific Editorial Board of \"Advances in Electrical and Electronic Engineering\" journal and the Professor at University of Pardubice, Jan Perner Transport Faculty, Department of Electrical and Electronic Engineering and Signaling in Transport:",
+  "avatar_url": "/uploads/managers/images/Schejbal.jpg",
+  "info_file_url": "/uploads/managers/files/VOL14_NO3.pdf",
+  "volume": 14,
+  "issue": 3,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.194Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.580Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c747"
+  },
+  "foreword": "Foreword about Professor Adam Szelag, a member of the International Scientific Editorial Board of \"Advances in Electrical and Electronic Engineering\" journal and the Professor at Warsaw University of Technology, Faculty of Electrical Engineering, Electric Traction Division:",
+  "avatar_url": "/uploads/managers/images/Szelag.jpg",
+  "info_file_url": "/uploads/managers/files/VOL14_NO2.pdf",
+  "volume": 14,
+  "issue": 2,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.194Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.581Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c748"
+  },
+  "foreword": "Foreword about Professor Jerzy Mikulski, a member of the International Scientific Editorial Board of „Advances in Electrical and Electronic Engineering” journal and at the same time the President of the Polish Association of Transport Telematics and also a staff member of the Transport Department, University of Economics in Katowice, Poland:",
+  "avatar_url": "/uploads/managers/images/Mikulski.jpg",
+  "info_file_url": "/uploads/managers/files/VOL14_NO1.pdf",
+  "volume": 14,
+  "issue": 1,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.194Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.582Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c749"
+  },
+  "foreword": "Foreword about Gheorghe Sebestyen-Pal, professor at the Technical University of Cluj-Napoca (TUCN), vice-dean of the Faculty of Automation and Computers, Romania:",
+  "avatar_url": "/uploads/managers/images/Sebestyen.jpg",
+  "info_file_url": "/uploads/managers/files/VOL13_NO5.pdf",
+  "volume": 13,
+  "issue": 5,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.194Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.583Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c74a"
+  },
+  "foreword": "Foreword about Floriano De Rango, Assistant Professor, member of Department of Informatics, Modeling, Electronic and Systems (DIMES), University of Calabria, Italy:",
+  "avatar_url": "/uploads/managers/images/deRango.png",
+  "info_file_url": "/uploads/managers/files/VOL13_NO4.pdf",
+  "volume": 13,
+  "issue": 4,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.194Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.584Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c74b"
+  },
+  "foreword": "Foreword about Lorand Szabo, member of the Department of Electrical Machines and Drives at the Faculty of Electrical Engineering, Technical University of Cluj, Romania:",
+  "avatar_url": "/uploads/managers/images/SzL2014.jpg",
+  "info_file_url": "/uploads/managers/files/VOL13_NO3.pdf",
+  "volume": 13,
+  "issue": 3,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.194Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.585Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c74c"
+  },
+  "foreword": "Foreword about Miroslaw Luft, Head of the Department of Automatic Control and Measurement Engineering at the Faculty of Transport and Electrical Engineering, Kazimierz Pulaski University of Technology and Humanities in Radom, Poland:",
+  "avatar_url": "/uploads/managers/images/Luft.jpg",
+  "info_file_url": "/uploads/managers/files/VOL13_NO2.pdf",
+  "volume": 13,
+  "issue": 2,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.194Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.585Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c74d"
+  },
+  "foreword": "Foreword about Professor Yuriy S. Shmaliy, IEEE Fellow, Head of Electronics Engineering Department, Universidad de Guanajuato, Mexico:",
+  "avatar_url": "/uploads/managers/images/shmaliy.png",
+  "info_file_url": "/uploads/managers/files/VOL13_NO1.pdf",
+  "volume": 13,
+  "issue": 1,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.194Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.586Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c74e"
+  },
+  "foreword": "Foreword about Ivan Glesk, Professor, member of the Department of Electronic and Electrical Engineering, Faculty of Engineering, University of Strathclyde, United Kingdom:",
+  "avatar_url": "/uploads/managers/images/Glesk.jpg",
+  "info_file_url": "/uploads/managers/files/VOL12_NO6.pdf",
+  "volume": 12,
+  "issue": 6,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.194Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.587Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c74f"
+  },
+  "foreword": "Foreword about Sergey Vladimirovich Serebriannikov, member of the Department of Physics and Technology of Electrotechnical Materials and Components, National Research University, Russian Federation:",
+  "avatar_url": "/uploads/managers/images/Serebriannikov.jpg",
+  "info_file_url": "/uploads/managers/files/VOL12_NO5.pdf",
+  "volume": 12,
+  "issue": 5,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.194Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.587Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c750"
+  },
+  "foreword": "Foreword about Victor Rangel-Licea, Professor, member of the Department of Telecommunications, Faculty of Engineering, National Autonomous University of Mexico (UNAM):",
+  "avatar_url": "/uploads/managers/images/Rangel.jpg",
+  "info_file_url": "/uploads/managers/files/VOL12_NO4.pdf",
+  "volume": 12,
+  "issue": 4,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.194Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.588Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c751"
+  },
+  "foreword": "Foreword about Marie Richterova, member of the Department of Communication and Information Systems,University of Defence, Czech Republic:",
+  "avatar_url": "/uploads/managers/images/Richterova.jpg",
+  "info_file_url": "/uploads/managers/files/VOL12_NO3.pdf",
+  "volume": 12,
+  "issue": 3,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.194Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.589Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c752"
+  },
+  "foreword": "Foreword about Radek Kucera, head of the Department of Mathematics and Descriptive Geometry, VSB-Technical University of Ostrava, Czech Republic:",
+  "avatar_url": "/uploads/managers/images/kucera.jpg",
+  "info_file_url": "/uploads/managers/files/VOL12_NO2.pdf",
+  "volume": 12,
+  "issue": 2,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.194Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.590Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c753"
+  },
+  "foreword": "Foreword about Eva Gescheidtova, Professor, Department of Theoretical and Experimental Electrical Engineering, Brno University of Technology, Czech Republic:",
+  "avatar_url": "/uploads/managers/images/Gescheidtova.jpg",
+  "info_file_url": "/uploads/managers/files/VOL12_NO1.pdf",
+  "volume": 12,
+  "issue": 1,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.194Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.591Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c754"
+  },
+  "foreword": "Foreword about Dr. Anirban Dhar, Scientist of Fiber Optics & Photonics Division, CSIR-Central Glass & Ceramic Research Institute, Kolkata, India:",
+  "avatar_url": "/uploads/managers/images/Anirban_Dhar.jpg",
+  "info_file_url": "/uploads/managers/files/VOL11_NO6.pdf",
+  "volume": 11,
+  "issue": 6,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.194Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.591Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c755"
+  },
+  "foreword": "Foreword about Ray-Guang Cheng, Professor, Department of Electronic and Computer Engineering, National Taiwan University of Science and Technology:",
+  "avatar_url": "/uploads/managers/images/Ray-GuangCheng.jpg",
+  "info_file_url": "/uploads/managers/files/VOL11_NO5.pdf",
+  "volume": 11,
+  "issue": 5,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.194Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.592Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c756"
+  },
+  "foreword": "Foreword about Jan Kohout, head of the Department of Mathematics and Physics and the vice-dean for research at the Faculty of Military Technology, University of Defence in Brno:",
+  "avatar_url": "/uploads/managers/images/Kohout.jpg",
+  "info_file_url": "/uploads/managers/files/VOL11_NO4.pdf",
+  "volume": 11,
+  "issue": 4,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.194Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.593Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c757"
+  },
+  "foreword": "Foreword about Vaclav Snasel, dean of the Faculty of Electrical Engineering and Computer Science, VSB–Technical University of Ostrava:",
+  "avatar_url": "/uploads/managers/images/snasel.jpg",
+  "info_file_url": "/uploads/managers/files/VOL11_NO3.pdf",
+  "volume": 11,
+  "issue": 3,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.194Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.594Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c758"
+  },
+  "foreword": "Foreword about Milan Dado, dean of the Faculty of Electrical Engineering, University of Zilina, Slovakia:",
+  "avatar_url": "/uploads/managers/images/Milan_Dado.png",
+  "info_file_url": "/uploads/managers/files/VOL11_NO2.pdf",
+  "volume": 11,
+  "issue": 2,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.194Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.595Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c759"
+  },
+  "foreword": "Foreword about Alexander Argyros, Senior Research Fellow, University of Sydney, Australia:",
+  "avatar_url": "/uploads/managers/images/Argyros.jpg",
+  "info_file_url": "/uploads/managers/files/VOL11_NO1.pdf",
+  "volume": 11,
+  "issue": 1,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.194Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.595Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c75a"
+  },
+  "foreword": "Foreword about Peppino Fazio, Research Fellow, DIMES Department of University of Calabria, Italy:",
+  "avatar_url": "/uploads/managers/images/Fazio.jpg",
+  "info_file_url": "/uploads/managers/files/VOL10_NO5.pdf",
+  "volume": 10,
+  "issue": 5,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.194Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.596Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c75b"
+  },
+  "foreword": "Foreword about Mikolaj Leszczuk, Assistant Professor, Department of Telecommunications, AGH University of Science and Technology, Krakow, Poland:",
+  "avatar_url": "/uploads/managers/images/Leszczuk.png",
+  "info_file_url": "/uploads/managers/files/VOL10_NO4.pdf",
+  "volume": 10,
+  "issue": 4,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.194Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.597Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c75c"
+  },
+  "foreword": "Foreword about Jan Zidek, Vice-dean of Faculty of Electrical Engineering and Computer Science, VSB-Technical University of Ostrava:",
+  "avatar_url": "/uploads/managers/images/zidek.png",
+  "info_file_url": "/uploads/managers/files/VOL10_NO3.pdf",
+  "volume": 10,
+  "issue": 3,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.194Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.597Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c75d"
+  },
+  "foreword": "Foreword about Jiri Vodrazka, Vice-head of the Department of Telecommunication Engineering, Czech Technical University in Prague:",
+  "avatar_url": "/uploads/managers/images/Vodrazka.png",
+  "info_file_url": "/uploads/managers/files/VOL10_NO2.pdf",
+  "volume": 10,
+  "issue": 2,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.194Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.598Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c75e"
+  },
+  "foreword": "Foreword about Michal Kratky, Vice-dean of FEECS for Science and Research and Chair of WOFEX Ph.D. workshop:",
+  "avatar_url": "/uploads/managers/images/Kratky.png",
+  "info_file_url": "/uploads/managers/files/VOL10_NO1.pdf",
+  "volume": 10,
+  "issue": 1,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.194Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.599Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c75f"
+  },
+  "foreword": "Foreword about Miroslav Voznak and request to Autors of Advances in Electrical and Electronic Engineering journal:",
+  "avatar_url": "/uploads/managers/images/Voznak.png",
+  "info_file_url": "/uploads/managers/files/VOL9_NO5.pdf",
+  "volume": 9,
+  "issue": 5,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.194Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.600Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c760"
+  },
+  "foreword": "Foreword about H. Gokhan Ilk and request to Autors of Advances in Electrical and Electronic Engineering journal:",
+  "avatar_url": "/uploads/managers/images/Ilk.png",
+  "info_file_url": "/uploads/managers/files/VOL9_NO4.pdf",
+  "volume": 9,
+  "issue": 4,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.194Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.600Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c761"
+  },
+  "foreword": "Foreword about Vladimir Vasinek,the member of the International Scientific Editorial Board of Advances in Electrical and Electronic Engineering journal:",
+  "avatar_url": "/uploads/managers/images/vasinek.png",
+  "info_file_url": "/uploads/managers/files/VOL9_NO3.pdf",
+  "volume": 9,
+  "issue": 3,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.194Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.601Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c762"
+  },
+  "foreword": "Foreword about Pavel Brandstetter and main goal of Advances in Electrical and Electronic Engineering journal:",
+  "avatar_url": "/uploads/managers/images/Brandstetter.png",
+  "info_file_url": "/uploads/managers/files/VOL9_NO2.pdf",
+  "volume": 9,
+  "issue": 2,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.194Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.601Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68da2ec765f6b399f6e3c763"
+  },
+  "foreword": "Foreword about Milan Dado and history of Advances in Electricaland Electronic Engineering journal:",
+  "avatar_url": "/uploads/managers/images/Dado.png",
+  "info_file_url": "/uploads/managers/files/VOL9_NO1.pdf",
+  "volume": 9,
+  "issue": 1,
+  "__v": 0,
+  "created_at": {
+    "$date": "2025-09-29T07:01:27.194Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-19T10:48:22.602Z"
+  }
+}]
