@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "68ccc8e700321eb98d13c5c1"
+  },
+  "author": "Advances in Electrical and Electronic Engineering",
+  "title": "How to Submit an Article",
+  "content": "<p>How to submit an article was prepared for you<br><a href=\"../files/Author_guide.pdf\" target=\"_blank\" rel=\"noopener\">Author Guidelines</a></p>",
+  "created_at": {
+    "$date": "2025-09-19T03:07:19.921Z"
+  },
+  "updated_at": {
+    "$date": "2025-09-21T13:36:41.164Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68cffa408f0250359d9a9d7d"
+  },
+  "author": "Advances in Electrical and Electronic Engineering",
+  "title": "Actual Template Version 2024",
+  "content": "<p>Dear authors, we would like to inform you that our templates of Advances in Electrical and Electronic Engineering journal were revised.<br>Newly added items into our templates are: authors ORCID numbers, publication history, authors contributions, corresponding author.<br>Please, download actual template version for your articles.</p>\n<div class=\"flex flex-col md:flex-row items-center gap-2\"><!-- Ảnh --> <img class=\"w-[35px] h-[35px] object-contain\" src=\"../images/zipa.png\" alt=\"Template Icon\"> <!-- Nội dung -->\n<div class=\"flex items-center gap-2\"><a class=\"text-blue-600 hover:underline\" href=\"../files/AEEE_Template.zip\" target=\"_blank\" rel=\"noopener\"> Latex Template </a> / <a class=\"text-blue-600 hover:underline\" href=\"../files/AEEE%20Template%20Eng.docx\" target=\"_blank\" rel=\"noopener\"> Word Template </a></div>\n</div>",
+  "created_at": {
+    "$date": "2025-09-21T13:14:40.942Z"
+  },
+  "updated_at": {
+    "$date": "2025-09-21T13:36:36.010Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68cffec38f0250359d9a9dee"
+  },
+  "author": "Advances in Electrical and Electronic Engineering",
+  "title": "Reward",
+  "content": "<p>Dear Respected Reviewers, Authors, and Readers of the Advances in Electrical and Electronic Engineering (AEEE) Journal,<br>Thank you for your continued support of the journal. To show our appreciation for your contributions, we are pleased to announce a reward program as follows:</p>\n<p>All published papers that receive at least 10 citations will be eligible for an APC waiver voucher for one accepted manuscript.<br>The citation count will begin as soon as the paper is accepted and will continue until June 30th of the second year following the year of acceptance (n+2). For example, if a paper is accepted in 2024, citations will be counted until June 30th, 2026.<br>Only citations from the Scopus or Web of Science databases will be counted.<br>The APC waiver voucher is valid for 9 months from the date of issuance and/or when it is sent by email.<br>The voucher is non-transferable, cannot be redeemed for cash, and can only be used for an accepted paper in the AEEE journal.<br>The voucher can be used by any of the authors of the cited paper but is valid for one-time use only. It cannot be transferred to anyone who is not an author of the accepted paper.<br>The program applies to all papers accepted after March 15th, 2024, until further notice.<br>We hope this reward program serves as a token of our appreciation for your valuable contributions to the journal.</p>\n<p>Best regards,<br>The AEEE Editorial Team</p>",
+  "created_at": {
+    "$date": "2025-09-21T13:33:55.564Z"
+  },
+  "updated_at": {
+    "$date": "2025-09-21T13:36:26.621Z"
+  },
+  "__v": 0
+}]

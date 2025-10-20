@@ -1,0 +1,174 @@
+[
+  {
+    "article_name": "IMPLEMENTATION AND CONTROL SYSTEM DEVELOPMENT OF A DIFFERENTIAL DRIVE WHEELED MOBILE ROBOT",
+    "authors": [
+      {
+        "first_name": "Tri-Vien",
+        "last_name": "VU"
+      },
+      {
+        "first_name": "Thanh-Quang",
+        "last_name": "NGUYEN"
+      },
+      {
+        "first_name": "Anh-Minh Tran",
+        "last_name": "DUC"
+      },
+      {
+        "first_name": "Phuong-Uyen Le",
+        "last_name": "NGUYEN"
+      },
+      {
+        "first_name": "Chan-Kiet",
+        "last_name": "TRINH"
+      }
+    ],
+    "id": 18
+  },
+  {
+    "article_name": "Lightweight Deep Learning for Autonomous Human Counting System on Low-Cost Hardware",
+    "authors": [
+      {
+        "first_name": "Anh Vu",
+        "last_name": "LE"
+      },
+      {
+        "first_name": "Nhat Tan",
+        "last_name": "LE"
+      },
+      {
+        "first_name": "Anh Dung",
+        "last_name": "NGUYEN"
+      },
+      {
+        "first_name": "Ngoc Nghia",
+        "last_name": "NGUYEN"
+      },
+      {
+        "first_name": "Hai Dang",
+        "last_name": "LE"
+      },
+      {
+        "first_name": "Minh Dang",
+        "last_name": "TRAN"
+      },
+      {
+        "first_name": "Bui Vu",
+        "last_name": "MINH"
+      },
+      {
+        "first_name": "Lam Dong",
+        "last_name": "HUYNH"
+      },
+      {
+        "first_name": "Mohan Rajesh",
+        "last_name": "ELARA"
+      }
+    ],
+    "id": 23
+  },
+  {
+    "article_name": "A SOLUTION MAP FOR EXTENDED ECONOMIC LOAD DISPATCH PROBLEM BY SECRETARY BIRD ALGORITHM",
+    "authors": [
+      {
+        "first_name": "Ly Huu",
+        "last_name": "PHAM"
+      },
+      {
+        "first_name": "Bach Hoang",
+        "last_name": "DINH"
+      },
+      {
+        "first_name": "Tai Thanh",
+        "last_name": "PHAN"
+      },
+      {
+        "first_name": "Tuu Kim",
+        "last_name": "DANG"
+      },
+      {
+        "first_name": "Bao Thien",
+        "last_name": "LUONG"
+      },
+      {
+        "first_name": "Trung Thanh Nguyen",
+        "last_name": "GIANG"
+      }
+    ],
+    "id": 25
+  },
+  {
+    "article_name": "APPLICATION OF CSA ALGORITHM FOR THE PMSM SPEED ESTIMATOR OF THE FOC CONTROL METHOD USING EXTENDED KALMAN FILTER",
+    "authors": [
+      {
+        "first_name": "Thinh Cong",
+        "last_name": "TRAN"
+      },
+      {
+        "first_name": "Pavel",
+        "last_name": "BRANDSTETTER"
+      },
+      {
+        "first_name": "Huynh Tan",
+        "last_name": "DE"
+      },
+      {
+        "first_name": "Hau Huu",
+        "last_name": "VO"
+      }
+    ],
+    "id": 26
+  },
+  {
+    "article_name": "COMPARISON OF DUAL THREE-PHASE AND SIX-PHASE SURFACE MOUNTED PERMANENT MAGNET MOTOR FOR TRACTION DRIVE APPLICATIONS",
+    "authors": [
+      {
+        "first_name": "Duong Le Doan",
+        "last_name": "QUY"
+      },
+      {
+        "first_name": "Duc Quang",
+        "last_name": "NGUYEN"
+      },
+      {
+        "first_name": "Phi Do",
+        "last_name": "CHI"
+      },
+      {
+        "first_name": "Tuan Nghia",
+        "last_name": "LUONG"
+      },
+      {
+        "first_name": "Vuong Dang",
+        "last_name": "QUOC"
+      }
+    ],
+    "id": 28
+  },
+  {
+    "article_name": "ABO-BTI: An Open-Source ABO Blood Typing Image dataset for Medical AI Applications",
+    "authors": [
+      {
+        "first_name": "Daas",
+        "last_name": "SARA"
+      },
+      {
+        "first_name": "Zehir",
+        "last_name": "HATEM"
+      },
+      {
+        "first_name": "Chebli",
+        "last_name": "ASMA"
+      },
+      {
+        "first_name": "Hafs",
+        "last_name": "TOUFIK"
+      },
+      {
+        "first_name": "Hadef",
+        "last_name": "CHAIMA"
+      }
+    ],
+    "id": 29
+  }
+]

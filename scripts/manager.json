@@ -1,0 +1,478 @@
+[
+	{
+		"volume": "23",
+		"issue": "3",
+		"foreword": "Foreword from Kou Yamada, Professor of Gunma University, Japan.",
+		"manager_img": "/images/manager/kou_yamada.png",
+		"file_path": "/manager/files/VOL23_NO3.pdf"
+	},
+	{
+		"volume": "23",
+		"issue": "2",
+		"foreword": "Foreword from Axel Sikora, Professor of Offenburg University, Germany and Deputy Member of the Board at Hahn-Schickard, Villingen-Schwenningen, Germany.",
+		"manager_img": "/images/manager/axel_sikora.jpg",
+		"file_path": "/manager/files/VOL23_NO2.pdf"
+	},
+	{
+		"volume": "23",
+		"issue": "1",
+		"foreword": "Foreword about Byung-Seo Kim, Professor of Hongik University-Sejong campus, Republic of Korea.",
+		"manager_img": "/images/manager/ByungSeoKim.jpg",
+		"file_path": "/manager/files/VOL23_NO1.pdf"
+	},
+	{
+		"volume": "22",
+		"issue": "4",
+		"foreword": "Foreword about Sung Won Kim, Professor of the School of Computer Science and Engineering, Yeungnam University, Republic of Korea.",
+		"manager_img": "/images/manager/SungWonKim.jpg",
+		"file_path": "/manager/files/VOL22_NO4.pdf"
+	},
+	{
+		"volume": "22",
+		"issue": "3",
+		"foreword": "Foreword about Rupak Kharel, University of Huddersfield, Huddersfield, UK.",
+		"manager_img": "/images/manager/rupak_kharel.jpg",
+		"file_path": "/manager/files/VOL22_NO3.pdf"
+	},
+	{
+		"volume": "22",
+		"issue": "2",
+		"foreword": "Foreword about Peppino Fazio, Associate Professor of the Department of Molecular Sciences and Nanosystems, Ca’ Foscari University of Venice, Italy.",
+		"manager_img": "/images/manager/Fazio.jpg",
+		"file_path": "/manager/files/VOL22_NO2.pdf"
+	},
+	{
+		"volume": "22",
+		"issue": "1",
+		"foreword": "Foreword about Tran Trung Duy, Associate Professor of the Posts and Telecommunications Institute of Technology, Ho Chi Minh City campus (PTIT-HCM), Vietnam.",
+		"manager_img": "/images/manager/Duy.jpg",
+		"file_path": "/manager/files/VOL22_NO1.pdf"
+	},
+	{
+		"volume": "21",
+		"issue": "4",
+		"foreword": "Foreword about Winai Jaikla, Associate Professor of the Department of Engineering Education, School of Industrial Education and Technology, King Mongkut’s Institute of Technology Ladkrabang, Thailand.",
+		"manager_img": "/images/manager/winai.jpg",
+		"file_path": "/manager/files/VOL21_NO4.pdf"
+	},
+	{
+		"volume": "21",
+		"issue": "3",
+		"foreword": "Foreword about Thang Trung Nguyen, Ph.D of the Department of Electrical Engineering, Faculty of Electrical and Electronics Engineering, Ton Duc Thang University, Vietnam:",
+		"manager_img": "/images/manager/Thang.jpg",
+		"file_path": "/manager/files/VOL21_NO3.pdf"
+	},
+	{
+		"volume": "21",
+		"issue": "2",
+		"foreword": "Foreword about Jan Latal, Lecturer and Professor’s assistant at the Department of Telecommunications, Faculty of Electrical Engineering and Computer Science, VSB–Technical University of Ostrava, Czech Republic and former Editor-in-Chief of Advances in Electrical and Electronic Engineering journal:",
+		"manager_img": "/images/manager/Latal.jpg",
+		"file_path": "/manager/files/VOL21_NO2.pdf"
+	},
+	{
+		"volume": "21",
+		"issue": "1",
+		"foreword": "Foreword about Martin Kyselak, Associate Professor of the Department of Electrical Engineering, Faculty of Military Technology, University of Defence in Brno, Czech Republic:",
+		"manager_img": "/images/manager/Kyselak.png",
+		"file_path": "/manager/files/VOL21_NO1.pdf"
+	},
+	{
+		"volume": "20",
+		"issue": "4",
+		"foreword": "Foreword about Associate Professor Surender Reddy Salkuti from the Department of Railroad and Electrical Engineering, Woosong University, Daejeon, Republic of Korea and Professor Cheng Li from the Department of Vehicle Engineering, Soochow University, Suzhou, China:",
+		"manager_img": "/images/manager/vol20no4.jpg",
+		"file_path": "/manager/files/VOL20_NO4.pdf"
+	},
+	{
+		"volume": "20",
+		"issue": "3",
+		"foreword": "Foreword about Farag Kamel Abo-Elyousr Mostafa, Associate Professor at the Electrical Engineering Department, Faculty of Engineering, Assiut University, Egypt",
+		"manager_img": "/images/manager/Farag.jpg",
+		"file_path": "/manager/files/VOL20_NO3.pdf"
+	},
+	{
+		"volume": "20",
+		"issue": "2",
+		"foreword": "Foreword about Amin Behzadmehr, Full Professor and director of Nanotechnology research center at the University of Sistan and Baluchestan, I.R.Iran",
+		"manager_img": "/images/manager/Behzadmehr.jpg",
+		"file_path": "/manager/files/VOL20_NO2.pdf"
+	},
+	{
+		"volume": "20",
+		"issue": "1",
+		"foreword": "Foreword about Kampol Woradit, Assistant Professor of the Department of Computer Engineering, Faculty of Engineering, Chiang Mai University:",
+		"manager_img": "/images/manager/Kampol_Woradit.jpg",
+		"file_path": "/manager/files/VOL20_NO1.pdf"
+	},
+	{
+		"volume": "19",
+		"issue": "4",
+		"foreword": "Foreword about Professor Peter Pocta, the Professor at Department of Multimedia and Information, part Communication Technology, Faculty of Electrical Engineering and Information Technology, University of Zilina, Slovakia:",
+		"manager_img": "/images/manager/Peter_Pocta.jpg ",
+		"file_path": "/manager/files/VOL19_NO4.pdf"
+	},
+	{
+		"volume": "19",
+		"issue": "3",
+		"foreword": "Foreword about Assistant Professor Dinh-Thuan Do, Assistant Professor, Department of Computer Science and Information Engineering, College of Information and Electrical Engineering, Asia University, Taichung city, Taiwan:",
+		"manager_img": "/images/manager/Thuan_Do.jpg",
+		"file_path": "/manager/files/VOL19_NO3.pdf"
+	},
+	{
+		"volume": "19",
+		"issue": "2",
+		"foreword": "Foreword about Professor Neeta Pandey as a member of Editorial Board of \"Advances in Electrical and Electronic Engineering\" journal and the Professor at the Department of Electronics and Communication Engineering, Delhi Technological University, India:",
+		"manager_img": "/images/manager/pandey.jpg",
+		"file_path": "/manager/files/VOL19_NO2.pdf"
+	},
+	{
+		"volume": "19",
+		"issue": "1",
+		"foreword": "Foreword about Associate Professor Luciano Belandria, Associate Professor at the Department of Electronic Engineering, National Experimental University of Tachira (UNET), Venezuela:",
+		"manager_img": "/images/manager/Belandria.jpeg",
+		"file_path": "/manager/files/VOL19_NO1.pdf"
+	},
+	{
+		"volume": "18",
+		"issue": "4",
+		"foreword": "Foreword about associate professor Winai Jaikla, associate professor at Department of Engineering Education, Faculty of Industrial Education and Technology, King Mongkut’s Institute of Technology Ladkrabang, Thailand:",
+		"manager_img": "/images/manager/Jaikla.png ",
+		"file_path": "/manager/files/VOL18_NO4.pdf"
+	},
+	{
+		"volume": "18",
+		"issue": "3",
+		"foreword": "Foreword about associate professor Zouhair Al-qudah, associate professor at Communication Engineeing Department, Al-Hussein Bin Talal University, Ma’an, Jordan:",
+		"manager_img": "/images/manager/Al-qudah.jpg",
+		"file_path": "/manager/files/VOL18_NO3.pdf"
+	},
+	{
+		"volume": "18",
+		"issue": "2",
+		"foreword": "Foreword about associate professor Mohammed Redha Qader, Dean of Scientific Research at the University of Bahrain and associate professor of Electrical Engineering at the University of Bahrain:",
+		"manager_img": "/images/manager/Qader.JPG",
+		"file_path": "/manager/files/VOL18_NO2.pdf"
+	},
+	{
+		"volume": "18",
+		"issue": "1",
+		"foreword": "Foreword about associate professor Arturs Aboltins, IEEE Fellow and associate professor at Institute of Radioelectronics, Faculty of Electronics and Telecommunications (FET), Riga Technical University (RTU):",
+		"manager_img": "/images/manager/Aboltins.jpg  ",
+		"file_path": "/manager/files/VOL18_NO1.pdf"
+	},
+	{
+		"volume": "17",
+		"issue": "4",
+		"foreword": "Foreword about Professor Mohamed Benbouzid, IEEE Fellow, IET Fellow, and Professor at Department of Electrical Engineering of the University Institute of Technology, University of Brest:",
+		"manager_img": "/images/manager/Benbouzid.png ",
+		"file_path": "/manager/files/VOL17_NO4.pdf"
+	},
+	{
+		"volume": "17",
+		"issue": "3",
+		"foreword": "Foreword about Professor Radu Arsinte as a member of Editorial Board of \"Advances in Electrical and Electronic Engineering\" journal and the Professor at the Communications Department, Technical University of Cluj-Napoca:",
+		"manager_img": "/images/manager/Arsinte.jpg",
+		"file_path": "/manager/files/VOL17_NO3.pdf"
+	},
+	{
+		"volume": "17",
+		"issue": "2",
+		"foreword": "Foreword about Professor Karol Rastocny as a member of Editorial Board of \"Advances in Electrical and Electronic Engineering\" journal and the Professor at the Department of Control and Information Systems, Faculty of Electrical Engineering and Information Technology, University of Zilina:",
+		"manager_img": "/images/manager/Rastocny_Foto.JPG",
+		"file_path": "/manager/files/VOL17_NO2.pdf"
+	},
+	{
+		"volume": "17",
+		"issue": "1",
+		"foreword": "Foreword about Philippe Fournier-Viger, Professor of Computer Science, School of Humanities and Social Sciences, Harbin Institute of Technology (Shenzhen), University Town of Shenzhen, Shenzhen:",
+		"manager_img": "/images/manager/Viger.jpg",
+		"file_path": "/manager/files/VOL17_NO1.pdf"
+	},
+	{
+		"volume": "16",
+		"issue": "4",
+		"foreword": "Foreword about professor Marek Penhaker as a member of Editorial Board of \"Advances in Electrical and Electronic Engineering\" journal and the head of Biomedical Engineering group at VSB–Technical University of Ostrava at Department of Cybernetics and Biomedical Engineering:",
+		"manager_img": "/images/manager/Penhaker.jpg",
+		"file_path": "/manager/files/VOL16_NO4.pdf"
+	},
+	{
+		"volume": "16",
+		"issue": "3",
+		"foreword": "Foreword about Professor Branislav Dobrucky senior member of the IEEE Industrial Electronics Society and the Professor at the Department of Mechatronics and Electronics, Faculty of Electrical Engineering and Information Technology, University of Zilina:",
+		"manager_img": "/images/manager/dobrucky.jpg",
+		"file_path": "/manager/files/VOL16_NO3.pdf"
+	},
+	{
+		"volume": "16",
+		"issue": "2",
+		"foreword": "Foreword about Professor Miloslav Ohlidal member of the International Scientific Editorial Board of \"Advances in Electrical and Electronic Engineering\" journal and the Professor at Department of Optics and Precise Mechanics, Institute of Physical Engineering, Faculty of Mechanical Engineering, Brno University of Technology:",
+		"manager_img": "/images/manager/Ohlidal.jpg",
+		"file_path": "/manager/files/VOL16_NO2.pdf"
+	},
+	{
+		"volume": "16",
+		"issue": "1",
+		"foreword": "Foreword about Professor Pavol Spanik chairman of the International Scientific Editorial Board of \"Advances in Electrical and Electronic Engineering\" journal and the Dean Faculty of the Electrical Engineering, University of Zilina and the Professor at Department of Power Electrical Systems, Faculty of Electrical Engineering, University of Zilina:",
+		"manager_img": "/images/manager/Spanik.jpg",
+		"file_path": "/manager/files/VOL16_NO1.pdf"
+	},
+	{
+		"volume": "15",
+		"issue": "5",
+		"foreword": "Foreword about Professor Raj Senani from the Division of Electronics and Communication Engineering, Netaji Subhas Institute of Technology, Dwarka, New Delhi, Dalibor Biolek a member of the International Scientific Editorial Board of \"Advances in Electrical and Electronic Engineering\" journal and the Professor at University of Defence and Brno University of Technology, and Professor Data Ram Bhaskar from the Department of Electronics & Communication Engineering at Delhi Technological University, India:",
+		"manager_img": "/images/manager/Senani_Biolek_Bhaskar.png",
+		"file_path": "/manager/files/VOL15_NO5.pdf"
+	},
+	{
+		"volume": "15",
+		"issue": "4",
+		"foreword": "Foreword about Mauro Tropea, Research Fellow, DIMES Department of University of Calabria, Italy:",
+		"manager_img": "/images/manager/tropea.jpg",
+		"file_path": "/manager/files/VOL15_NO4.pdf"
+	},
+	{
+		"volume": "15",
+		"issue": "3",
+		"foreword": "Foreword about Professor Homer Nazeran, a Senior Member of the IEEE and a faculty with the Department of Electrical and Computer Engineering at the University of Texas at El Paso, and Associate Professor Radek Martinek, the Editor-in-Chief of the “Advances in Electrical and Electronic Engineering” Journal, and a faculty of the Department of Cybernetics and Biomedical Engineering, Faculty of Electrical Engineering and Computer Science, VSB-Technical University of Ostrava:",
+		"manager_img": "/images/manager/nazeran_martinek.jpg",
+		"file_path": "/manager/files/VOL15_NO3.pdf"
+	},
+	{
+		"volume": "15",
+		"issue": "2",
+		"foreword": "Foreword about Zdenek Dostal, Professor at VSB–Technical University of Ostrava, Faculty of Electrical Engineering and Computer Science, Department of Applied Mathematics:",
+		"manager_img": "/images/manager/dostal1.jpg",
+		"file_path": "/manager/files/VOL15_NO2.pdf"
+	},
+	{
+		"volume": "15",
+		"issue": "1",
+		"foreword": "Foreword about Professor Maria Franekova, a member of the International Scientific Editorial Board of \"Advances in Electrical and Electronic Engineering\" journal and the Professor at University of Zilina, Faculty of Electrical Engineering, Department of Control and Information Systems:",
+		"manager_img": "/images/manager/franekova.jpg",
+		"file_path": "/manager/files/VOL15_NO1.pdf"
+	},
+	{
+		"volume": "14",
+		"issue": "5",
+		"foreword": "Foreword about Sasa Mrdovic, Associate Professor, Computer Science Department, Faculty of Electrical Engineering, University of Sarajevo:",
+		"manager_img": "/images/manager/foto.png",
+		"file_path": "/manager/files/VOL14_NO5.pdf"
+	},
+	{
+		"volume": "14",
+		"issue": "4",
+		"foreword": "Foreword about Stefan Rass, Associate Professor, System Security Group, Institute of Applied Informatics, Alpen-Adria Universitat Klagenfurt, Austria:",
+		"manager_img": "/images/manager/Rass.jpg",
+		"file_path": "/manager/files/VOL14_NO4.pdf"
+	},
+	{
+		"volume": "14",
+		"issue": "3",
+		"foreword": "Foreword about Professor Vladimir Schejbal, a member of the International Scientific Editorial Board of \"Advances in Electrical and Electronic Engineering\" journal and the Professor at University of Pardubice, Jan Perner Transport Faculty, Department of Electrical and Electronic Engineering and Signaling in Transport:",
+		"manager_img": "/images/manager/Schejbal.jpg",
+		"file_path": "/manager/files/VOL14_NO3.pdf"
+	},
+	{
+		"volume": "14",
+		"issue": "2",
+		"foreword": "Foreword about Professor Adam Szelag, a member of the International Scientific Editorial Board of \"Advances in Electrical and Electronic Engineering\" journal and the Professor at Warsaw University of Technology, Faculty of Electrical Engineering, Electric Traction Division:",
+		"manager_img": "/images/manager/Szelag.jpg",
+		"file_path": "/manager/files/VOL14_NO2.pdf"
+	},
+	{
+		"volume": "14",
+		"issue": "1",
+		"foreword": "Foreword about Professor Jerzy Mikulski, a member of the International Scientific Editorial Board of „Advances in Electrical and Electronic Engineering” journal and at the same time the President of the Polish Association of Transport Telematics and also a staff member of the Transport Department, University of Economics in Katowice, Poland:",
+		"manager_img": "/images/manager/Mikulski.jpg",
+		"file_path": "/manager/files/VOL14_NO1.pdf"
+	},
+	{
+		"volume": "13",
+		"issue": "5",
+		"foreword": "Foreword about Gheorghe Sebestyen-Pal, professor at the Technical University of Cluj-Napoca (TUCN), vice-dean of the Faculty of Automation and Computers, Romania:",
+		"manager_img": "/images/manager/Sebestyen.jpg",
+		"file_path": "/manager/files/VOL13_NO5.pdf"
+	},
+	{
+		"volume": "13",
+		"issue": "4",
+		"foreword": "Foreword about Floriano De Rango, Assistant Professor, member of Department of Informatics, Modeling, Electronic and Systems (DIMES), University of Calabria, Italy:",
+		"manager_img": "/images/manager/deRango.png",
+		"file_path": "/manager/files/VOL13_NO4.pdf"
+	},
+	{
+		"volume": "13",
+		"issue": "3",
+		"foreword": "Foreword about Lorand Szabo, member of the Department of Electrical Machines and Drives at the Faculty of Electrical Engineering, Technical University of Cluj, Romania:",
+		"manager_img": "/images/manager/SzL2014.jpg",
+		"file_path": "/manager/files/VOL13_NO3.pdf"
+	},
+	{
+		"volume": "13",
+		"issue": "2",
+		"foreword": "Foreword about Miroslaw Luft, Head of the Department of Automatic Control and Measurement Engineering at the Faculty of Transport and Electrical Engineering, Kazimierz Pulaski University of Technology and Humanities in Radom, Poland:",
+		"manager_img": "/images/manager/Luft.jpg",
+		"file_path": "/manager/files/VOL13_NO2.pdf"
+	},
+	{
+		"volume": "13",
+		"issue": "1",
+		"foreword": "Foreword about Professor Yuriy S. Shmaliy, IEEE Fellow, Head of Electronics Engineering Department, Universidad de Guanajuato, Mexico:",
+		"manager_img": "/images/manager/shmaliy.png",
+		"file_path": "/manager/files/VOL13_NO1.pdf"
+	},
+	{
+		"volume": "12",
+		"issue": "6",
+		"foreword": "Foreword about Ivan Glesk, Professor, member of the Department of Electronic and Electrical Engineering, Faculty of Engineering, University of Strathclyde, United Kingdom:",
+		"manager_img": "/images/manager/Glesk.jpg",
+		"file_path": "/manager/files/VOL12_NO6.pdf"
+	},
+	{
+		"volume": "12",
+		"issue": "5",
+		"foreword": "Foreword about Sergey Vladimirovich Serebriannikov, member of the Department of Physics and Technology of Electrotechnical Materials and Components, National Research University, Russian Federation:",
+		"manager_img": "/images/manager/Serebriannikov.jpg",
+		"file_path": "/manager/files/VOL12_NO5.pdf"
+	},
+	{
+		"volume": "12",
+		"issue": "4",
+		"foreword": "Foreword about Victor Rangel-Licea, Professor, member of the Department of Telecommunications, Faculty of Engineering, National Autonomous University of Mexico (UNAM):",
+		"manager_img": "/images/manager/Rangel.jpg",
+		"file_path": "/manager/files/VOL12_NO4.pdf"
+	},
+	{
+		"volume": "12",
+		"issue": "3",
+		"foreword": "Foreword about Marie Richterova, member of the Department of Communication and Information Systems,University of Defence, Czech Republic:",
+		"manager_img": "/images/manager/Richterova.jpg",
+		"file_path": "/manager/files/VOL12_NO3.pdf"
+	},
+	{
+		"volume": "12",
+		"issue": "2",
+		"foreword": "Foreword about Radek Kucera, head of the Department of Mathematics and Descriptive Geometry, VSB-Technical University of Ostrava, Czech Republic:",
+		"manager_img": "/images/manager/kucera.jpg",
+		"file_path": "/manager/files/VOL12_NO2.pdf"
+	},
+	{
+		"volume": "12",
+		"issue": "1",
+		"foreword": "Foreword about Eva Gescheidtova, Professor, Department of Theoretical and Experimental Electrical Engineering, Brno University of Technology, Czech Republic:",
+		"manager_img": "/images/manager/Gescheidtova.jpg",
+		"file_path": "/manager/files/VOL12_NO1.pdf"
+	},
+	{
+		"volume": "11",
+		"issue": "6",
+		"foreword": "Foreword about Dr. Anirban Dhar, Scientist of Fiber Optics & Photonics Division, CSIR-Central Glass & Ceramic Research Institute, Kolkata, India:",
+		"manager_img": "/images/manager/Anirban_Dhar.jpg",
+		"file_path": "/manager/files/VOL11_NO6.pdf"
+	},
+	{
+		"volume": "11",
+		"issue": "5",
+		"foreword": "Foreword about Ray-Guang Cheng, Professor, Department of Electronic and Computer Engineering, National Taiwan University of Science and Technology:",
+		"manager_img": "/images/manager/Ray-GuangCheng.jpg",
+		"file_path": "/manager/files/VOL11_NO5.pdf"
+	},
+	{
+		"volume": "11",
+		"issue": "4",
+		"foreword": "Foreword about Jan Kohout, head of the Department of Mathematics and Physics and the vice-dean for research at the Faculty of Military Technology, University of Defence in Brno:",
+		"manager_img": "/images/manager/Kohout.jpg",
+		"file_path": "/manager/files/VOL11_NO4.pdf"
+	},
+	{
+		"volume": "11",
+		"issue": "3",
+		"foreword": "Foreword about Vaclav Snasel, dean of the Faculty of Electrical Engineering and Computer Science, VSB–Technical University of Ostrava:",
+		"manager_img": "/images/manager/snasel.jpg",
+		"file_path": "/manager/files/VOL11_NO3.pdf"
+	},
+	{
+		"volume": "11",
+		"issue": "2",
+		"foreword": "Foreword about Milan Dado, dean of the Faculty of Electrical Engineering, University of Zilina, Slovakia:",
+		"manager_img": "/images/manager/Milan_Dado.png",
+		"file_path": "/manager/files/VOL11_NO2.pdf"
+	},
+	{
+		"volume": "11",
+		"issue": "1",
+		"foreword": "Foreword about Alexander Argyros, Senior Research Fellow, University of Sydney, Australia:",
+		"manager_img": "/images/manager/Argyros.jpg",
+		"file_path": "/manager/files/VOL11_NO1.pdf"
+	},
+	{
+		"volume": "10",
+		"issue": "5",
+		"foreword": "Foreword about Peppino Fazio, Research Fellow, DIMES Department of University of Calabria, Italy:",
+		"manager_img": "/images/manager/Fazio.jpg",
+		"file_path": "/manager/files/VOL10_NO5.pdf"
+	},
+	{
+		"volume": "10",
+		"issue": "4",
+		"foreword": "Foreword about Mikolaj Leszczuk, Assistant Professor, Department of Telecommunications, AGH University of Science and Technology, Krakow, Poland:",
+		"manager_img": "/images/manager/Leszczuk.png",
+		"file_path": "/manager/files/VOL10_NO4.pdf"
+	},
+	{
+		"volume": "10",
+		"issue": "3",
+		"foreword": "Foreword about Jan Zidek, Vice-dean of Faculty of Electrical Engineering and Computer Science, VSB-Technical University of Ostrava:",
+		"manager_img": "/images/manager/zidek.png",
+		"file_path": "/manager/files/VOL10_NO3.pdf"
+	},
+	{
+		"volume": "10",
+		"issue": "2",
+		"foreword": "Foreword about Jiri Vodrazka, Vice-head of the Department of Telecommunication Engineering, Czech Technical University in Prague:",
+		"manager_img": "/images/manager/Vodrazka.png",
+		"file_path": "/manager/files/VOL10_NO2.pdf"
+	},
+	{
+		"volume": "10",
+		"issue": "1",
+		"foreword": "Foreword about Michal Kratky, Vice-dean of FEECS for Science and Research and Chair of WOFEX Ph.D. workshop:",
+		"manager_img": "/images/manager/Kratky.png",
+		"file_path": "/manager/files/VOL10_NO1.pdf"
+	},
+	{
+		"volume": "9",
+		"issue": "5",
+		"foreword": "Foreword about Miroslav Voznak and request to Autors of Advances in Electrical and Electronic Engineering journal:",
+		"manager_img": "/images/manager/Voznak.png",
+		"file_path": "/manager/files/VOL9_NO5.pdf"
+	},
+	{
+		"volume": "9",
+		"issue": "4",
+		"foreword": "Foreword about H. Gokhan Ilk and request to Autors of Advances in Electrical and Electronic Engineering journal:",
+		"manager_img": "/images/manager/Ilk.png",
+		"file_path": "/manager/files/VOL9_NO4.pdf"
+	},
+	{
+		"volume": "9",
+		"issue": "3",
+		"foreword": "Foreword about Vladimir Vasinek,the member of the International Scientific Editorial Board of Advances in Electrical and Electronic Engineering journal:",
+		"manager_img": "/images/manager/vasinek.png",
+		"file_path": "/manager/files/VOL9_NO3.pdf"
+	},
+	{
+		"volume": "9",
+		"issue": "2",
+		"foreword": "Foreword about Pavel Brandstetter and main goal of Advances in Electrical and Electronic Engineering journal:",
+		"manager_img": "/images/manager/Brandstetter.png",
+		"file_path": "/manager/files/VOL9_NO2.pdf"
+	},
+	{
+		"volume": "9",
+		"issue": "1",
+		"foreword": "Foreword about Milan Dado and history of Advances in Electricaland Electronic Engineering journal:",
+		"manager_img": "/images/manager/Dado.png",
+		"file_path": "/manager/files/VOL9_NO1.pdf"
+	}
+]
