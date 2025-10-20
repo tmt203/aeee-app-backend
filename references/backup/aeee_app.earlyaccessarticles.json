@@ -1,0 +1,232 @@
+[{
+  "_id": {
+    "$oid": "68f354899b9295d6baa39e72"
+  },
+  "title": "IMPLEMENTATION AND CONTROL SYSTEM DEVELOPMENT OF A DIFFERENTIAL DRIVE WHEELED MOBILE ROBOT",
+  "authors": [
+    {
+      "first_name": "Tri-Vien",
+      "last_name": "VU"
+    },
+    {
+      "first_name": "Thanh-Quang",
+      "last_name": "NGUYEN"
+    },
+    {
+      "first_name": "Anh-Minh Tran",
+      "last_name": "DUC"
+    },
+    {
+      "first_name": "Phuong-Uyen Le",
+      "last_name": "NGUYEN"
+    },
+    {
+      "first_name": "Chan-Kiet",
+      "last_name": "TRINH"
+    }
+  ],
+  "pdf_path": "/uploads/early-access-articles/IMPLEMENTATION AND CONTROL SYSTEM DEVELOPMENT OF A DIFFERENTIAL DRIVE WHEELED MOBILE ROBOT.pdf",
+  "__v": 1,
+  "created_at": {
+    "$date": "2025-10-18T08:49:13.933Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-18T09:42:42.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f354899b9295d6baa39e78"
+  },
+  "title": "Lightweight Deep Learning for Autonomous Human Counting System on Low-Cost Hardware",
+  "authors": [
+    {
+      "first_name": "Anh Vu",
+      "last_name": "LE"
+    },
+    {
+      "first_name": "Nhat Tan",
+      "last_name": "LE"
+    },
+    {
+      "first_name": "Anh Dung",
+      "last_name": "NGUYEN"
+    },
+    {
+      "first_name": "Ngoc Nghia",
+      "last_name": "NGUYEN"
+    },
+    {
+      "first_name": "Hai Dang",
+      "last_name": "LE"
+    },
+    {
+      "first_name": "Minh Dang",
+      "last_name": "TRAN"
+    },
+    {
+      "first_name": "Bui Vu",
+      "last_name": "MINH"
+    },
+    {
+      "first_name": "Lam Dong",
+      "last_name": "HUYNH"
+    },
+    {
+      "first_name": "Mohan Rajesh",
+      "last_name": "ELARA"
+    }
+  ],
+  "pdf_path": "/uploads/early-access-articles/Lightweight Deep Learning for Autonomous Human Counting System on Low-Cost Hardware.pdf",
+  "__v": 1,
+  "created_at": {
+    "$date": "2025-10-18T08:49:13.934Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-18T09:42:42.052Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f354899b9295d6baa39e82"
+  },
+  "title": "A SOLUTION MAP FOR EXTENDED ECONOMIC LOAD DISPATCH PROBLEM BY SECRETARY BIRD ALGORITHM",
+  "authors": [
+    {
+      "first_name": "Ly Huu",
+      "last_name": "PHAM"
+    },
+    {
+      "first_name": "Bach Hoang",
+      "last_name": "DINH"
+    },
+    {
+      "first_name": "Tai Thanh",
+      "last_name": "PHAN"
+    },
+    {
+      "first_name": "Tuu Kim",
+      "last_name": "DANG"
+    },
+    {
+      "first_name": "Bao Thien",
+      "last_name": "LUONG"
+    },
+    {
+      "first_name": "Trung Thanh Nguyen",
+      "last_name": "GIANG"
+    }
+  ],
+  "pdf_path": "/uploads/early-access-articles/A SOLUTION MAP FOR EXTENDED ECONOMIC LOAD DISPATCH PROBLEM BY SECRETARY BIRD ALGORITHM.pdf",
+  "__v": 1,
+  "created_at": {
+    "$date": "2025-10-18T08:49:13.934Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-18T09:42:42.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f354899b9295d6baa39e89"
+  },
+  "title": "APPLICATION OF CSA ALGORITHM FOR THE PMSM SPEED ESTIMATOR OF THE FOC CONTROL METHOD USING EXTENDED KALMAN FILTER",
+  "authors": [
+    {
+      "first_name": "Thinh Cong",
+      "last_name": "TRAN"
+    },
+    {
+      "first_name": "Pavel",
+      "last_name": "BRANDSTETTER"
+    },
+    {
+      "first_name": "Huynh Tan",
+      "last_name": "DE"
+    },
+    {
+      "first_name": "Hau Huu",
+      "last_name": "VO"
+    }
+  ],
+  "pdf_path": "/uploads/early-access-articles/APPLICATION OF CSA ALGORITHM FOR THE PMSM SPEED ESTIMATOR OF THE FOC CONTROL METHOD USING EXTENDED KALMAN FILTER.pdf",
+  "__v": 1,
+  "created_at": {
+    "$date": "2025-10-18T08:49:13.934Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-18T09:42:42.058Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f354899b9295d6baa39e8e"
+  },
+  "title": "COMPARISON OF DUAL THREE-PHASE AND SIX-PHASE SURFACE MOUNTED PERMANENT MAGNET MOTOR FOR TRACTION DRIVE APPLICATIONS",
+  "authors": [
+    {
+      "first_name": "Duong Le Doan",
+      "last_name": "QUY"
+    },
+    {
+      "first_name": "Duc Quang",
+      "last_name": "NGUYEN"
+    },
+    {
+      "first_name": "Phi Do",
+      "last_name": "CHI"
+    },
+    {
+      "first_name": "Tuan Nghia",
+      "last_name": "LUONG"
+    },
+    {
+      "first_name": "Vuong Dang",
+      "last_name": "QUOC"
+    }
+  ],
+  "pdf_path": "/uploads/early-access-articles/COMPARISON OF DUAL THREE-PHASE AND SIX-PHASE SURFACE MOUNTED PERMANENT MAGNET MOTOR FOR TRACTION DRIVE APPLICATIONS.pdf",
+  "__v": 1,
+  "created_at": {
+    "$date": "2025-10-18T08:49:13.934Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-18T09:42:42.061Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f354899b9295d6baa39e94"
+  },
+  "title": "ABO-BTI: An Open-Source ABO Blood Typing Image dataset for Medical AI Applications",
+  "authors": [
+    {
+      "first_name": "Daas",
+      "last_name": "SARA"
+    },
+    {
+      "first_name": "Zehir",
+      "last_name": "HATEM"
+    },
+    {
+      "first_name": "Chebli",
+      "last_name": "ASMA"
+    },
+    {
+      "first_name": "Hafs",
+      "last_name": "TOUFIK"
+    },
+    {
+      "first_name": "Hadef",
+      "last_name": "CHAIMA"
+    }
+  ],
+  "pdf_path": "/uploads/early-access-articles/ABO-BTI An Open-Source ABO Blood Typing.pdf",
+  "__v": 1,
+  "created_at": {
+    "$date": "2025-10-18T08:49:13.934Z"
+  },
+  "updated_at": {
+    "$date": "2025-10-18T09:42:42.063Z"
+  }
+}]
