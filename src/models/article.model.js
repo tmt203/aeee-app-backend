@@ -166,6 +166,32 @@ articleSchema.pre("save", function (next) {
 	next();
 });
 
+// Middleware to remove 'Undefined' text from citations before returning
+articleSchema.post("find", function (docs, next) {
+	docs.forEach((doc) => {
+		if (doc.citations) {
+			if (doc.citations.apa) {
+				doc.citations.apa = doc.citations.apa.replace("Undefined", "");
+			}
+			if (doc.citations.bib_tex) {
+				doc.citations.bib_tex = doc.citations.bib_tex.replace("Undefined", "");
+			}
+		}
+	});
+	next();
+});
+articleSchema.post("findOne", function (doc, next) {
+	if (doc && doc.citations) {
+		if (doc.citations.apa) {
+			doc.citations.apa = doc.citations.apa.replace("Undefined", "");
+		}
+		if (doc.citations.bib_tex) {
+			doc.citations.bib_tex = doc.citations.bib_tex.replace("Undefined", "");
+		}
+	}
+	next();
+});
+
 const Article = model("Article", articleSchema);
 
 export default Article;
