@@ -4,7 +4,7 @@ const issueSchema = new Schema(
 	{
 		year: {
 			type: Number,
-			required: true,
+			required: false,
 		},
 		volume: {
 			type: Number,
@@ -17,7 +17,7 @@ const issueSchema = new Schema(
 		manager: {
 			type: Schema.Types.ObjectId,
 			ref: "Manager",
-			required: true,
+			required: false,
 		},
 		articles: [
 			{
@@ -46,11 +46,24 @@ issueSchema.index({ volume: -1, issue: -1 });
 issueSchema.pre(/^find/, function (next) {
 	this.populate({
 		path: "articles",
-		select: "id title authors views pub_date citations -_id",
+		select: "id title authors pages doi views pub_date citations -_id",
 	}).populate({
 		path: "manager",
 		select: "foreword foreword_content avatar_url name info_file_url",
 	});
+	next();
+});
+
+// Middleware to sort by volume first, issue second in descending order after find
+issueSchema.post(/^find/, function (docs, next) {
+	if (Array.isArray(docs)) {
+		docs.sort((a, b) => {
+			if (a.volume === b.volume) {
+				return b.issue - a.issue;
+			}
+			return b.volume - a.volume;
+		});
+	}
 	next();
 });
 
