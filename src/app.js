@@ -12,6 +12,8 @@ import articleRouter from "./routes/article.route.js";
 import managerRouter from "./routes/manager.route.js";
 import earlyAccessArticleRouter from "./routes/early_access_article.route.js";
 import issueRouter from "./routes/issue.route.js";
+import authRouter from "./routes/auth.route.js";
+import userRouter from "./routes/user.route.js";
 import globalErrorHandler from "./utils/handlerGlobalError.js";
 
 const __filename = fileURLToPath(import.meta.url);
@@ -39,10 +41,14 @@ app.use(compression());
 // Routes
 app.use("/api/v1/pages", pageRouter);
 app.use("/api/v1/announcements", announcementRouter);
+
 app.use("/api/v1/articles", articleRouter);
 app.use("/api/v1/managers", managerRouter);
-app.use("/api/v1/early-access-articles", earlyAccessArticleRouter);
 app.use("/api/v1/issues", issueRouter);
+app.use("/api/v1/early-access-articles", earlyAccessArticleRouter);
+
+app.use("/api/v1/auth", authRouter);
+app.use("/api/v1/users", userRouter);
 
 app.get("/", (req, res) => {
 	res.json("Backend started successfully");

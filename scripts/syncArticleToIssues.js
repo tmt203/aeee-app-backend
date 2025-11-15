@@ -1,4 +1,5 @@
 import mongoose from "mongoose";
+import Manager from "../src/models/manager.model.js";
 import Issue from "../src/models/issue.model.js";
 import Article from "../src/models/article.model.js";
 
