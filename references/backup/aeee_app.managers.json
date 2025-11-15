@@ -30,8 +30,9 @@
     "$date": "2025-09-29T07:01:27.193Z"
   },
   "updated_at": {
-    "$date": "2025-10-19T10:48:22.542Z"
-  }
+    "$date": "2025-10-27T02:54:06.861Z"
+  },
+  "foreword_content": ""
 },
 {
   "_id": {
@@ -1154,4 +1155,370 @@
   "updated_at": {
     "$date": "2025-10-19T10:48:22.602Z"
   }
+},
+{
+  "_id": {
+    "$oid": "6915b4f9dbaac91668732097"
+  },
+  "foreword": "",
+  "avatar_url": "",
+  "info_file_url": "",
+  "volume": 1,
+  "issue": 1,
+  "created_at": {
+    "$date": "2025-11-13T10:37:45.441Z"
+  },
+  "updated_at": {
+    "$date": "2025-11-15T08:18:55.216Z"
+  },
+  "__v": 0,
+  "foreword_content": ""
+},
+{
+  "_id": {
+    "$oid": "6918378da246540fd2d7ee51"
+  },
+  "foreword": "",
+  "foreword_content": "",
+  "avatar_url": "",
+  "info_file_url": "",
+  "volume": 2,
+  "issue": 1,
+  "created_at": {
+    "$date": "2025-11-15T08:19:25.243Z"
+  },
+  "updated_at": {
+    "$date": "2025-11-15T08:19:25.243Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691837baa246540fd2d7ee57"
+  },
+  "foreword": "",
+  "foreword_content": "",
+  "avatar_url": "",
+  "info_file_url": "",
+  "volume": 2,
+  "issue": 2,
+  "created_at": {
+    "$date": "2025-11-15T08:20:10.328Z"
+  },
+  "updated_at": {
+    "$date": "2025-11-15T08:20:10.328Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691837c6a246540fd2d7ee5d"
+  },
+  "foreword": "",
+  "foreword_content": "",
+  "avatar_url": "",
+  "info_file_url": "",
+  "volume": 2,
+  "issue": 3,
+  "created_at": {
+    "$date": "2025-11-15T08:20:22.472Z"
+  },
+  "updated_at": {
+    "$date": "2025-11-15T08:20:22.472Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6918380fa246540fd2d7ee63"
+  },
+  "volume": 3,
+  "issue": 1,
+  "created_at": {
+    "$date": "2025-11-15T08:21:35.503Z"
+  },
+  "updated_at": {
+    "$date": "2025-11-15T08:21:35.503Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69183814a246540fd2d7ee65"
+  },
+  "volume": 3,
+  "issue": 2,
+  "created_at": {
+    "$date": "2025-11-15T08:21:40.100Z"
+  },
+  "updated_at": {
+    "$date": "2025-11-15T08:21:40.100Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69183817a246540fd2d7ee67"
+  },
+  "volume": 3,
+  "issue": 3,
+  "created_at": {
+    "$date": "2025-11-15T08:21:43.937Z"
+  },
+  "updated_at": {
+    "$date": "2025-11-15T08:21:43.937Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69183820a246540fd2d7ee69"
+  },
+  "volume": 3,
+  "issue": 4,
+  "created_at": {
+    "$date": "2025-11-15T08:21:52.015Z"
+  },
+  "updated_at": {
+    "$date": "2025-11-15T08:21:52.015Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6918382ea246540fd2d7ee6b"
+  },
+  "volume": 4,
+  "issue": 1,
+  "created_at": {
+    "$date": "2025-11-15T08:22:06.201Z"
+  },
+  "updated_at": {
+    "$date": "2025-11-15T08:22:06.201Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69183834a246540fd2d7ee6d"
+  },
+  "volume": 4,
+  "issue": 2,
+  "created_at": {
+    "$date": "2025-11-15T08:22:12.212Z"
+  },
+  "updated_at": {
+    "$date": "2025-11-15T08:22:12.212Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69183838a246540fd2d7ee6f"
+  },
+  "volume": 4,
+  "issue": 3,
+  "created_at": {
+    "$date": "2025-11-15T08:22:16.698Z"
+  },
+  "updated_at": {
+    "$date": "2025-11-15T08:22:16.698Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6918383ca246540fd2d7ee71"
+  },
+  "volume": 4,
+  "issue": 4,
+  "created_at": {
+    "$date": "2025-11-15T08:22:20.385Z"
+  },
+  "updated_at": {
+    "$date": "2025-11-15T08:22:20.385Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69183857a246540fd2d7ee73"
+  },
+  "volume": 5,
+  "issue": 1,
+  "created_at": {
+    "$date": "2025-11-15T08:22:47.213Z"
+  },
+  "updated_at": {
+    "$date": "2025-11-15T08:22:47.213Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6918385ca246540fd2d7ee75"
+  },
+  "volume": 5,
+  "issue": 3,
+  "created_at": {
+    "$date": "2025-11-15T08:22:52.078Z"
+  },
+  "updated_at": {
+    "$date": "2025-11-15T08:22:52.078Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69183868a246540fd2d7ee77"
+  },
+  "volume": 6,
+  "issue": 1,
+  "created_at": {
+    "$date": "2025-11-15T08:23:04.937Z"
+  },
+  "updated_at": {
+    "$date": "2025-11-15T08:23:04.937Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6918386ca246540fd2d7ee79"
+  },
+  "volume": 6,
+  "issue": 2,
+  "created_at": {
+    "$date": "2025-11-15T08:23:08.961Z"
+  },
+  "updated_at": {
+    "$date": "2025-11-15T08:23:08.961Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69183870a246540fd2d7ee7b"
+  },
+  "volume": 6,
+  "issue": 3,
+  "created_at": {
+    "$date": "2025-11-15T08:23:12.826Z"
+  },
+  "updated_at": {
+    "$date": "2025-11-15T08:23:12.826Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69183deea246540fd2d7ee7f"
+  },
+  "volume": 7,
+  "issue": 1,
+  "created_at": {
+    "$date": "2025-11-15T08:46:38.828Z"
+  },
+  "updated_at": {
+    "$date": "2025-11-15T08:46:38.828Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69183df4a246540fd2d7ee81"
+  },
+  "volume": 7,
+  "issue": 2,
+  "created_at": {
+    "$date": "2025-11-15T08:46:44.373Z"
+  },
+  "updated_at": {
+    "$date": "2025-11-15T08:46:44.373Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69183df6a246540fd2d7ee83"
+  },
+  "volume": 7,
+  "issue": 3,
+  "created_at": {
+    "$date": "2025-11-15T08:46:46.148Z"
+  },
+  "updated_at": {
+    "$date": "2025-11-15T08:46:46.148Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69183e01a246540fd2d7ee85"
+  },
+  "volume": 8,
+  "issue": 1,
+  "created_at": {
+    "$date": "2025-11-15T08:46:57.021Z"
+  },
+  "updated_at": {
+    "$date": "2025-11-15T08:46:57.021Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69183e02a246540fd2d7ee87"
+  },
+  "volume": 8,
+  "issue": 2,
+  "created_at": {
+    "$date": "2025-11-15T08:46:58.535Z"
+  },
+  "updated_at": {
+    "$date": "2025-11-15T08:46:58.535Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69183e03a246540fd2d7ee89"
+  },
+  "volume": 8,
+  "issue": 3,
+  "created_at": {
+    "$date": "2025-11-15T08:46:59.797Z"
+  },
+  "updated_at": {
+    "$date": "2025-11-15T08:46:59.797Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69183e06a246540fd2d7ee8b"
+  },
+  "volume": 8,
+  "issue": 4,
+  "created_at": {
+    "$date": "2025-11-15T08:47:02.059Z"
+  },
+  "updated_at": {
+    "$date": "2025-11-15T08:47:02.059Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69183e07a246540fd2d7ee8d"
+  },
+  "volume": 8,
+  "issue": 5,
+  "created_at": {
+    "$date": "2025-11-15T08:47:03.383Z"
+  },
+  "updated_at": {
+    "$date": "2025-11-15T08:47:03.383Z"
+  },
+  "__v": 0
 }]
