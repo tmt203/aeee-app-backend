@@ -43,7 +43,7 @@ export const getLatestArticles = catchAsync(async (req, res, next) => {
 		]);
 
 		return res.status(200).json({
-			status: "OK",
+			code: "OK",
 			data: latest,
 			total: latest.length,
 		});

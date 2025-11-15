@@ -2,11 +2,11 @@ import { Schema, model } from "mongoose";
 
 const managerSchema = new Schema(
 	{
-		foreword: { type: String, required: true },
-		foreword_content: String,
-		avatar_url: { type: String, required: true },
+		foreword: { type: String, required: false },
+		foreword_content: { type: String, required: false },
+		avatar_url: { type: String, required: false },
 		name: { type: String, required: false },
-		info_file_url: { type: String, required: true },
+		info_file_url: { type: String, required: false },
 		volume: { type: Number, required: true, min: 1 },
 		issue: { type: Number, required: true, min: 1 },
 	},
@@ -22,6 +22,8 @@ const managerSchema = new Schema(
 		},
 	}
 );
+
+managerSchema.index({ volume: 1, issue: 1 }, { unique: true });
 
 const Manager = model("Manager", managerSchema);
 

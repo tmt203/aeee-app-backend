@@ -59,7 +59,11 @@ async function migrate() {
 
 				for (const f of articlesList) {
 					const similarity = cosineSimilarity(lowerTitle, f.title.toLowerCase());
-					if (similarity >= 0.95) {
+					if (
+						similarity >= 0.9 ||
+						lowerTitle.includes(f.title.toLowerCase()) ||
+						f.title.toLowerCase().includes(lowerTitle)
+					) {
 						matchedCategory = f.category || "Undefined";
 						pdf_path = f.path;
 						break;
@@ -69,6 +73,7 @@ async function migrate() {
 
 			return {
 				_id: `${item.id}`,
+				id: item.id,
 				title: item.ArticleTitle,
 				doi: item.ELocationID?.__text || "Undefined",
 				volume: parseInt(item.Journal?.Volume),
@@ -109,12 +114,14 @@ async function migrate() {
 				})(),
 				abstract: item.Abstract || "Undefined",
 				language: (item.Language || "EN").toLowerCase(),
-				pdf_path,
+				pdf_path: "/uploads/articles/" + pdf_path,
 				views: item.views || 0,
 				year: parseInt(item.year),
 				category: matchedCategory || "Undefined",
 			};
 		});
+
+		console.log("🔍 Sample mapped article:", mappedArticles[0]);
 
 		// Insert vào MongoDB
 		await Article.insertMany(mappedArticles, { ordered: false });

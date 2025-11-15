@@ -46,7 +46,7 @@ issueSchema.index({ volume: -1, issue: -1 });
 issueSchema.pre(/^find/, function (next) {
 	this.populate({
 		path: "articles",
-		select: "id title authors pages doi views pub_date citations -_id",
+		select: "id title authors pages doi views pub_date citations pdf_path -_id",
 	}).populate({
 		path: "manager",
 		select: "foreword foreword_content avatar_url name info_file_url",

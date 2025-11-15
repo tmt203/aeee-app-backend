@@ -19,7 +19,7 @@ const articleSchema = new Schema(
 		},
 		doi: {
 			type: String,
-			required: true,
+			required: false, // Some articles might not have a DOI
 			unique: true,
 		},
 		volume: {

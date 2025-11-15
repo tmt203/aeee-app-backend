@@ -1,6 +1,6 @@
+import chalk from "chalk";
 import "dotenv/config.js";
 import mongoose from "mongoose";
-import chalk from "chalk";
 import app from "./src/app.js";
 
 process.on("uncaughtException", (error) => {
@@ -13,7 +13,9 @@ const DB = process.env.DATABASE_LOCAL;
 
 mongoose
 	.connect(DB)
-	.then(() => console.log("DB connection successful!"))
+	.then(() => {
+		console.log("DB connection successful!");
+	})
 	.catch((error) => console.log(chalk.redBright(error)));
 
 const PORT = process.env.PORT || 3000;

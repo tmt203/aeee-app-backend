@@ -14,19 +14,13 @@ async function updatePdfPaths() {
 
 		let updatedCount = 0;
 
-		// for (const article of articles) {
-		//   // Nếu chưa có prefix /uploads/articles/
-		//   if (!article.pdf_path.startsWith("/uploads/articles/")) {
-		//     article.pdf_path = `/uploads/articles/${article.pdf_path.replace(/^\/+/, "")}`;
-		//     await article.save();
-		//     updatedCount++;
-		//   }
-		// }
-
 		for (const article of articles) {
-			article._id = undefined; // Xóa trường _id cũ
-			await article.save();
-			updatedCount++;
+			// Nếu chưa có prefix /uploads/articles/
+			if (!article.pdf_path.startsWith("/uploads/articles/")) {
+				article.pdf_path = `/uploads/articles/${article.pdf_path.replace(/^\/+/, "")}`;
+				await article.save();
+				updatedCount++;
+			}
 		}
 
 		console.log(`✅ Updated ${updatedCount} articles successfully`);
