@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "6907045f05b64241f25026c3"
+  },
+  "first_name": "Super",
+  "last_name": "Admin",
+  "username": "superadmin",
+  "email": "superadmin@gmail.com",
+  "avatar": "default.jpg",
+  "role": "admin",
+  "password": "$2b$12$/e5k8rfiKQIMTHJ3lLCFneQYrwYUWiVeLUyY68m48eHcrTAOJ.wOe",
+  "active": true,
+  "created_at": {
+    "$date": "2025-11-02T07:12:31.547Z"
+  },
+  "updated_at": {
+    "$date": "2025-11-02T07:12:31.547Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6907047b05b64241f25026c5"
+  },
+  "first_name": "Trí",
+  "last_name": "Trần",
+  "username": "trantri203",
+  "email": "trantri203@gmail.com",
+  "avatar": "default.jpg",
+  "role": "user",
+  "password": "$2b$12$VWK7LU8vuBYTUbEVM7HZWO0xk.CuPGc0LF6i.VvPLT3qFdNTg5peO",
+  "active": true,
+  "created_at": {
+    "$date": "2025-11-02T07:12:59.068Z"
+  },
+  "updated_at": {
+    "$date": "2025-11-02T07:12:59.068Z"
+  },
+  "__v": 0
+}]
