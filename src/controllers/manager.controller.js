@@ -2,10 +2,22 @@ import path from "path";
 import fs from "fs/promises";
 import Article from "../models/article.model.js";
 import Manager from "../models/manager.model.js";
+import Issue from "../models/issue.model.js";
 import catchAsync from "../utils/catchAsync.js";
 import * as factory from "../utils/handlerFactory.js";
 import { fileUploader } from "../utils/fileUploader.js";
 import AppError from "../utils/appError.js";
+
+// export const downloadCrossReference = catchAsync(async (req, res, next) => {
+// 	const { volume, issue } = req.body;
+// 	if (!volume || !issue) {
+// 		return next(
+// 			new AppError("Please provide volume and issue in request body", 400, "ERR_NO_VOLUME_ISSUE")
+// 		);
+// 	}
+
+
+// });
 
 export const uploadSingle = fileUploader.single("file");
 export const uploadFile = catchAsync(async (req, res, next) => {
@@ -108,6 +120,21 @@ export const deleteManager = catchAsync(async (req, res, next) => {
 		}
 	}
 
+	// Delete folder /src/public/uploads/articles/{year}/Vol {volume}, No {issue} if exists
+	const folderPath = path.join(
+		process.cwd(),
+		`/src/public/uploads/articles/${manager.year}/Vol ${volume}, No ${issue}`
+	);
+	try {
+		await fs.access(folderPath);
+		await fs.rmdir(folderPath, { recursive: true });
+	} catch {
+		// Folder does not exist, continue
+	}
+
+	// Delete issue associated with this manager
+	await Issue.findOneAndDelete({ manager: req.params.id });
+
 	// Delete manager document
 	await Manager.findByIdAndDelete(req.params.id);
 
@@ -117,9 +144,58 @@ export const deleteManager = catchAsync(async (req, res, next) => {
 	});
 });
 
+export const createManager = catchAsync(async (req, res, next) => {
+	const {
+		year,
+		month,
+		volume,
+		issue,
+		foreword,
+		foreword_content,
+		avatar_url,
+		info_file_url,
+		name,
+	} = req.body;
+
+	if (!year || !month || !volume || !issue) {
+		return next(
+			new AppError("Year, Month, Volume and Issue are required", 400, "ERR_MISSING_VOLUME_ISSUE")
+		);
+	}
+
+	// Create a folder /src/public/uploads/articles/{year}/Vol {volume}, No {issue} if not exists
+	const folderPath = path.join(
+		process.cwd(),
+		`/src/public/uploads/articles/${year}/Vol ${volume}, No ${issue}`
+	);
+	try {
+		await fs.access(folderPath);
+	} catch {
+		await fs.mkdir(folderPath, { recursive: true });
+	}
+
+	// Create manager
+	const newManager = await Manager.create({
+		year,
+		month,
+		volume,
+		issue,
+		foreword,
+		foreword_content,
+		avatar_url,
+		info_file_url,
+		name,
+	});
+
+	res.status(200).json({
+		code: "OK",
+		data: newManager,
+	});
+});
+
 export const getManager = factory.getOne(Manager);
 export const getAllManagers = factory.getAll(Manager);
 export const updateManager = factory.updateOne(Manager);
-export const createManager = factory.createOne(Manager);
+// export const createManager = factory.createOne(Manager);
 // export const deleteManager = factory.deleteOne(Manager);
 // export const deleteManagers = factory.deleteMany(Manager);

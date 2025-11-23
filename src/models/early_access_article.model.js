@@ -12,7 +12,8 @@ const earlyAccessArticleSchema = new Schema(
 				{ _id: false }
 			),
 		],
-		pdf_path: { type: String },
+		pdf_path: { type: String, required: true },
+		active: { type: Boolean, default: true },
 	},
 	{
 		timestamps: { createdAt: "created_at", updatedAt: "updated_at" },

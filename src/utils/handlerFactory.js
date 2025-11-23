@@ -4,20 +4,20 @@ import APIFeatures from "./apiFeatures.js";
 
 export const getAll = (Model, popOptions) =>
 	catchAsync(async (req, res, next) => {
-		let filter = {};
-		let query = Model.find(filter);
+		const features = new APIFeatures(Model.find({}), req.query, Model)
+			.filter()
+			.sort()
+			.limitFields()
+			.paginate()
+			.populate(popOptions);
 
-		if (popOptions) query = query.populate(popOptions);
-		const totalRecords = await Model.countDocuments(filter);
-
-		const features = new APIFeatures(query, req.query).filter().sort().limitFields().paginate();
-
-		const doc = await features.query;
+		const docs = await features.exec();
+		const totalRecords = await Model.countDocuments(features.rootFilter);
 
 		res.status(200).json({
 			code: "OK",
 			total: totalRecords,
-			data: doc,
+			data: docs,
 		});
 	});
 

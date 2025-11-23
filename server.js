@@ -13,7 +13,7 @@ const DB = process.env.DATABASE_LOCAL;
 
 mongoose
 	.connect(DB)
-	.then(() => {
+	.then(async () => {
 		console.log("DB connection successful!");
 	})
 	.catch((error) => console.log(chalk.redBright(error)));

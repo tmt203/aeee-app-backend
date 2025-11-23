@@ -4,11 +4,11 @@ import { generateCitations } from "../utils/generateCitations.js";
 const articleSchema = new Schema(
 	{
 		_id: {
-			type: Number,
+			type: String,
 			required: true,
 		},
 		id: {
-			type: Number,
+			type: String,
 			required: true,
 			unique: true,
 			index: true,
@@ -20,7 +20,6 @@ const articleSchema = new Schema(
 		doi: {
 			type: String,
 			required: false, // Some articles might not have a DOI
-			unique: true,
 		},
 		volume: {
 			type: Number,
@@ -134,6 +133,7 @@ const articleSchema = new Schema(
 				"Computer Science and Information Technology",
 			],
 			required: true,
+			default: "Undefined",
 		},
 		citations: {
 			apa: {
@@ -143,6 +143,7 @@ const articleSchema = new Schema(
 				type: String,
 			},
 		},
+		active: { type: Boolean, default: true },
 	},
 	{
 		timestamps: { createdAt: "created_at", updatedAt: "updated_at" },
