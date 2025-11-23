@@ -73,7 +73,7 @@ async function migrate() {
 
 			return {
 				_id: `${item.id}`,
-				id: item.id,
+				id: `${item.id}`,
 				title: item.ArticleTitle,
 				doi: item.ELocationID?.__text || "Undefined",
 				volume: parseInt(item.Journal?.Volume),

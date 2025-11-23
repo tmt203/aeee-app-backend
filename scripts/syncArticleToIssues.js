@@ -30,6 +30,10 @@ async function syncArticlesToIssues() {
 			// Extract IDs
 			const articleIds = articles.map((a) => a._id);
 
+			// Remove issue.articles first to avoid duplicates
+			issue.articles = [];
+			await issue.save();
+
 			// Update the Issue
 			issue.articles = articleIds;
 			await issue.save();
