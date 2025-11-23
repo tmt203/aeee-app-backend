@@ -2,6 +2,10 @@ import { Schema, model } from "mongoose";
 
 const issueSchema = new Schema(
 	{
+		month: {
+			type: Number,
+			required: false,
+		},
 		year: {
 			type: Number,
 			required: false,
@@ -21,7 +25,7 @@ const issueSchema = new Schema(
 		},
 		articles: [
 			{
-				type: Number,
+				type: String,
 				ref: "Article",
 			},
 		],
@@ -43,16 +47,16 @@ const issueSchema = new Schema(
 issueSchema.index({ volume: -1, issue: -1 });
 
 // Middleware to populate `articles` and `manager` before returning
-issueSchema.pre(/^find/, function (next) {
-	this.populate({
-		path: "articles",
-		select: "id title authors pages doi views pub_date citations pdf_path -_id",
-	}).populate({
-		path: "manager",
-		select: "foreword foreword_content avatar_url name info_file_url",
-	});
-	next();
-});
+// issueSchema.pre(/^find/, function (next) {
+// 	this.populate({
+// 		path: "articles",
+// 		select: "id title authors pages doi views pub_date citations pdf_path -_id",
+// 	}).populate({
+// 		path: "manager",
+// 		select: "foreword foreword_content avatar_url name info_file_url active",
+// 	});
+// 	next();
+// });
 
 // Middleware to sort by volume first, issue second in descending order after find
 issueSchema.post(/^find/, function (docs, next) {

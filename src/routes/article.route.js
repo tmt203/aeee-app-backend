@@ -11,7 +11,14 @@ router.route("/:id").get(articleController.getArticle);
 router.use(protect);
 router.use(restrictTo("admin"));
 
+router.post("/upload-file", articleController.uploadSingle, articleController.uploadFile);
+router.delete("/delete-file", articleController.deleteFile);
+
 router.route("/").post(articleController.createArticle);
-router.route("/:id").patch(articleController.updateArticle).put(articleController.updateArticle);
+router
+	.route("/:id")
+	.patch(articleController.updateArticle)
+	.put(articleController.updateArticle)
+	.delete(articleController.deleteArticle);
 
 export default router;

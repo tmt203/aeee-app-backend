@@ -13,6 +13,8 @@ router.use(restrictTo("admin"));
 router.post("/upload-file", managerController.uploadSingle, managerController.uploadFile);
 router.delete("/delete-file", managerController.deleteFile);
 
+// router.post("/download-cross-reference", managerController.downloadCrossReference);
+
 router
 	.route("/:id")
 	.patch(managerController.updateManager)
