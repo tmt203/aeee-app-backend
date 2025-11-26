@@ -6,7 +6,7 @@ import Article from "../src/models/article.model.js";
 const MONGO_URI = "mongodb://localhost:27017/aeee_app";
 
 function sanitizeFileName(name) {
-	return name.replace(/[<>:"/\\|?*]/g, ""); // loại bỏ các ký tự cấm
+	return name.replace(/[<>:"/\\|?*]/g, "");
 }
 
 function cosineSimilarity(str1, str2) {
@@ -37,18 +37,15 @@ async function migrate() {
 		await mongoose.connect(MONGO_URI);
 		console.log("✅ Connected to MongoDB");
 
-		// Load articles.json
 		const rawData = fs.readFileSync("./articles.json", "utf-8");
 		const articles = JSON.parse(rawData);
 		console.log(`📄 Found ${articles.length} articles`);
 
-		// Load articles_list.txt (chứa danh sách {title, category})
 		const listRaw = fs.readFileSync("./articles_list.txt", "utf-8");
 		const articlesList = JSON.parse(listRaw);
 
 		console.log(`📄 Found ${articlesList.length} articles in the list`);
 
-		// Map data sang Article model format
 		const mappedArticles = articles.map((item) => {
 			let matchedCategory = "";
 			let pdf_path = "";
